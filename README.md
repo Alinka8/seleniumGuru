@@ -1,2 +1,2 @@
 # seleniumGuru
-intro to Java and Selenium
+intro to Java and Selenium Guru
